@@ -7,6 +7,7 @@ public class GitClass1 {
 int a= 10;
 
 int b=30;
+int c;
 
 	}
 
